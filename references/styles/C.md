@@ -1,10 +1,10 @@
 # Style C — Scandinavian Picture-Book Gouache
 
-Soft gouache children's picture-book illustration in a modern Scandinavian storybook style, character-design sheet energy. Single subject against a vast empty near-white paper background with huge negative space.
+Soft gouache children's picture-book illustration in a modern Scandinavian storybook style, character-design sheet energy. Single subject against a vast empty **pure white (#FFFFFF) paper background** with huge negative space. The background color must remain pure white, never cream, beige, grey, or tinted.
 
 ## Paper (identity trait)
 
-The paper is VERY light and airy, close to near-white — never dark, never heavily tinted. Subtle fine paper grain tooth texture visible across the ENTIRE image including the empty background.
+The paper is **pure white (#FFFFFF)**, very light and airy. Never use a near-white tint, cream, beige, grey, or colored paper background. Subtle fine paper grain tooth texture may be visible across the image, but it must not change the background color.
 
 ## Palette (strict)
 

@@ -1,6 +1,6 @@
 # Style D — Children's Coloring Page (Low-Saturation Restrained Edition)
 
-Hand-drawn children's coloring picture on white paper. NOT digital illustration, NOT illustrator's work, NOT commercial picture book. Image structure: "coarse black coloring outlines roughly drawn by an ordinary adult + filled in by a 5-8 year old child."
+Hand-drawn children's coloring picture on **pure white paper (#FFFFFF)**. The background color must remain pure white, not cream, beige, grey, or tinted. NOT digital illustration, NOT illustrator's work, NOT commercial picture book. Image structure: "coarse black coloring outlines roughly drawn by an ordinary adult + filled in by a 5-8 year old child."
 
 ## Line art (most important)
 

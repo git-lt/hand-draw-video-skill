@@ -1,6 +1,6 @@
 # Style B — Emotional Narrative Light-Color Sketch
 
-An emotional narrative style minimalist light-color sketch illustration on clean white paper, airy and translucent with a slightly naive hand-drawn feel. NOT digital polished illustration, NOT photorealistic, NOT watercolor study, NOT Japanese anime.
+An emotional narrative style minimalist light-color sketch illustration on pure white paper (#FFFFFF), airy and translucent with a slightly naive hand-drawn feel. The background must remain pure white, not cream, beige, grey, or tinted. NOT digital polished illustration, NOT photorealistic, NOT watercolor study, NOT Japanese anime.
 
 ## Lines (most important)
 

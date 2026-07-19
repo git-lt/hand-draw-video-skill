@@ -19,7 +19,7 @@ Shapes should not be too standard — circles, hands, feet, furniture edges can 
 
 ## Paper
 
-White paper with slight irregular wrinkles, creases, and paper fiber texture. Plenty of white space. Wrinkles should not be excessive or decorative.
+Pure white paper background (#FFFFFF), with slight irregular wrinkles, creases, and paper fiber texture. Plenty of white space. The background color must remain pure white, not cream, beige, grey, or tinted. Wrinkles should not be excessive or decorative.
 
 ## Forbidden
 
