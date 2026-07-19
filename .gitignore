@@ -1,0 +1,39 @@
+# --- Agent / IDE / OS ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# ZCode session-private artifacts (plans, scratch) — never publish
+.zcode/
+
+# --- Node / Remotion runtime artifacts ---
+# These are generated on-the-fly by the agent when it creates a Remotion project.
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Remotion build output & cache
+out/
+.remotion/
+build/
+dist/
+
+# Generated scene images and final video (runtime products, not part of the skill)
+public/images/*.png
+public/images/*.jpg
+public/images/*.jpeg
+public/images/*.webp
+public/audio/*.mp3
+public/audio/*.wav
+*.mp4
+*.mov
+*.webm
+
+# Generated captions
+douyin-caption.txt
+
+# Logs
+*.log
+npm-debug.log*
