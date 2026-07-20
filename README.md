@@ -39,6 +39,14 @@ Remotion合成(四层遮罩: 文字扫入→灰度→彩色)
 预览确认 → 渲染MP4 → 生成抖音发布文案
 ```
 
+## 示例图片
+
+下面是一张由本 skill 生成的 9:16 手绘故事场景图，展示了“顶部文字区 + 中下部插画 + 纯白背景”的版式约束。它可以直接作为 Remotion 的单场输入图片：
+
+![手绘故事视频示例：妈妈和孩子一起学习](assets/examples/04-study-together.png)
+
+> 示例场景文字：“她做数学，我抄生字；她背课文，我背英语单词。”
+
 **两个关键暂停点（skill 强制要求）**：
 - 🅰️ 生成角色全家福后**暂停**，展示给用户确认人物形象无误，再继续逐场生图。
 - 🅱️ Remotion 代码写完后**暂停**，启动 `npx remotion studio` 预览，用户确认动画效果后再渲染。
@@ -188,6 +196,9 @@ hand-draw-video-skill/
 ├── README.md                     # 你正在看的这份
 ├── LICENSE                       # MIT
 ├── .gitignore
+├── assets/
+│   └── examples/
+│       └── 04-study-together.png # README 示例图片
 └── references/
     └── styles/
         ├── A.md                  # 风格 A — 儿童涂色页 提示词
