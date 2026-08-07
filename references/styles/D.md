@@ -1,41 +1,41 @@
-# Style D — Children's Coloring Page (Low-Saturation Restrained Edition)
+# 风格 D — 儿童涂色页（低饱和克制版）
 
-Hand-drawn children's coloring picture on **pure white paper (#FFFFFF)**. The background color must remain pure white, not cream, beige, grey, or tinted. NOT digital illustration, NOT illustrator's work, NOT commercial picture book. Image structure: "coarse black coloring outlines roughly drawn by an ordinary adult + filled in by a 5-8 year old child."
+**纯白纸（#FFFFFF）**上的手绘儿童涂色画。背景颜色必须保持纯白，不得是米白、奶油色、灰色或带色背景。不是数字插画，不是插画师作品，不是商业绘本。画面结构是「普通成人粗略画的粗黑涂色轮廓线 + 5-8 岁孩子涂的颜色」。
 
-## Line art (most important)
+## 线稿（最重要）
 
-Thick black marker outer contours, drawn by an ordinary adult, NOT an illustrator. Lines clearly uneven in thickness, visibly trembling and crooked. Several places traced over two or three times leaving repeated lines. Corners don't meet cleanly — gaps or over-runs present. Circles, furniture legs, table edges must NOT be drawn standard. Perspective can be wrong. Subject can be off-center. Interior fine lines: as few as possible.
+普通成人（不是插画师）用粗黑马克笔画外轮廓。线条粗细明显不均，肉眼可见地抖动、画歪。好几处重复描了两三遍留下叠线。转角接不干净——有缺口或越界。圆、家具腿、桌边不得画得标准。透视可以画错。主体可以偏移居中。内部细线：越少越好。
 
-Absolutely NO fine, neat, stable line art.
+绝对不要细、整齐、稳定的线稿。
 
-## Face & character design
+## 脸部与人物造型
 
-Character proportions simplified in child-drawing style — head slightly large, hands and feet simple. Facial features simple and even clumsy — eyes are tiny dots, mouth a single line. NO big-eye cute face, NO cartoon cute, NO commercial picture-book face. Hair and clothing folds must NOT be drawn with fine detail.
+人物比例按儿童画风格简化——头略大，手脚简单。五官简单甚至笨拙——眼睛是小点，嘴是一条线。不要大眼可爱脸，不要卡通可爱，不要商业绘本脸。头发和衣服褶皱不得画得细致。
 
-## Coloring (most important)
+## 填色（最重要）
 
-Crayon/marker child-style scribbling — every main color block leaves large unpainted white areas (~25-35% white gaps). Clearly uneven light and dark, with broken strokes and random directions.
+蜡笔或马克笔的儿童式涂抹——每个主色块都留大片未涂的白色（约 25-35% 留白缝隙）。深浅明显不均，有断笔和随机方向。
 
-Must have 2-3 spots where color clearly goes outside the black lines (over-run ~1-5mm), appearing on hair, clothing, etc. — clearly visible areas, not just edge roughness.
+必须有 2-3 处颜色明显涂出黑线之外（越界约 1-5mm），出现在头发、衣服等处——是清晰可见的区域，不只是边缘粗糙。
 
-## Background
+## 背景
 
-Extremely minimal — only one crooked ground line plus very few hints. NO complete room interior, NO furniture piles, NO pretty details.
+极其极简——只有一条画歪的地面线，加极少一点暗示。不要完整的室内场景，不要堆家具，不要漂亮细节。
 
-## Paper surface
+## 纸面
 
-Bright white real paper, slight irregular wrinkles, creases, and paper fiber texture. Plenty of white space. NO full-screen paper texture filter.
+明亮白色的真实纸张，带轻微不规则褶皱、折痕和纸张纤维纹理。留白充足。不要全屏纸张纹理滤镜。
 
-## Color palette (strict)
+## 配色（严格）
 
-Low to medium saturation, like crayon light application. No more than 4 colors total on the entire page. NO vivid pure colors, NO multi-color equal emphasis. Typical colors from: misty blue, warm brown wood tone, mustard yellow, dusty mauve (muted low-saturation colors).
+低到中等饱和度，像蜡笔轻涂。整页颜色总数不超过 4 种。不要鲜艳纯色，不要多色等量并重。典型用色：雾蓝、暖棕木色、芥末黄、灰紫粉（低饱和度的灰调色）。
 
-Only ONE accent color = orange-red, at most one spot per page, only used for emotional focal point or key prop (blush on cheeks, red circle, key small object, orange small animal).
+唯一强调色 = 橙红，每页最多一处，只用于情绪焦点或关键道具（脸颊腮红、红圈、关键小物件、橙色小动物）。
 
-## Forbidden
+## 禁止
 
-Smooth stable uniform-thickness digital line art, perfect circles, perfect perspective, perfect symmetry, commercial picture-book refined cute characters, gradients, shadow modeling, 3D, volumetric light, smooth evenly filled color, uniform crayon noise filter, complete interior background. Overall impression: like an ordinary person's casual hand-drawn submission on paper — clumsy, imperfect, with obvious hand errors, NOT an AI hand-drawn filter.
+光滑稳定粗细均匀的数字线稿、完美的圆、完美的透视、完美的对称、商业绘本精致可爱角色、渐变、阴影造型、3D、体积光、均匀光滑的平涂、均匀的蜡笔噪点滤镜、完整室内背景。整体印象：像普通人随手在纸上画的投稿——笨拙、不完美、有明显手误，不是 AI 手绘滤镜。
 
-## Text
+## 文字
 
-Text must be clearly readable thick black handwritten Chinese, allowing size inconsistency.
+文字必须是清晰可读的粗黑手写中文，允许字号不一。

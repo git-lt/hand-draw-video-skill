@@ -1,30 +1,30 @@
-# Style A — Pure Hand-Drawn Children's Coloring Page
+# 风格 A — 纯手绘儿童涂色页
 
-Hand-drawn children's coloring page style on white paper, NOT digital illustration. Image structure: "coarse black coloring outlines drawn by an adult/teacher + crayon-filled colors by a 5-8 year old child."
+白纸上的手绘儿童涂色页风格，不是数字插画。画面结构是「成人或老师画的粗黑涂色轮廓线 + 5-8 岁孩子用蜡笔涂的颜色」。
 
-## Line art
+## 线稿
 
-Thick black marker/fineliner outer contours — thick, black, rounded-blunt with varying pressure. Lines are sparse, thick, broken, trembling. Allow slight crookedness, repeated tracing strokes, and uneven joint gaps. Internal fine lines should be minimal.
+粗黑马克笔或签字笔画外轮廓——线条粗、黑、圆润钝头，带粗细压痕变化。线条稀疏、粗重、断续、抖动。允许轻微画歪、重复描线、接缝不齐。内部细线尽量少。
 
-## Coloring (most important)
+## 填色（最重要）
 
-Crayon/marker child-style scribbling — low-to-medium saturation, white gaps, uneven depth, inconsistent pressure, broken strokes, random sparse and dense distribution. Must have spots where color goes outside the lines. Within the same color block: heavy dark lines, light sweeping strokes, short broken strokes, large white gaps, and a few over-the-line marks — like a child coloring without a plan. NO uniform dense filling.
+蜡笔或马克笔的儿童式涂抹——低到中等饱和度、留白缝隙、深浅不均、力度不一、断笔、疏密随意分布。必须有颜色涂出轮廓线的地方。同一个色块内要有：重涂的深色线、轻扫的浅笔触、短促的断笔、大块留白缝隙，以及几处越界涂痕——像孩子漫无目的地涂色。不要均匀密实的填涂。
 
-- At least one main color block retains ~25-35% white/uncolored area
-- At least 2-3 main color blocks show 1-5mm obvious over-the-line coloring errors (edge roughness without going outside lines does NOT count)
+- 至少一个主色块保留约 25-35% 的留白或未涂区域
+- 至少 2-3 个主色块出现 1-5mm 明显的越界涂色错误（仅边缘粗糙、未真正出线的，不算）
 
-## Shape
+## 造型
 
-Shapes should not be too standard — circles, hands, feet, furniture edges can have child-drawing-style small errors, but the subject and action must remain clearly recognizable.
+形状不要太标准——圆、手、脚、家具边缘可以有儿童画式的小失误，但主体和动作必须保持清晰可辨。
 
-## Paper
+## 纸张
 
-Pure white paper background (#FFFFFF), with slight irregular wrinkles, creases, and paper fiber texture. Plenty of white space. The background color must remain pure white, not cream, beige, grey, or tinted. Wrinkles should not be excessive or decorative.
+纯白纸张背景（#FFFFFF），带轻微不规则的褶皱、折痕和纸张纤维纹理。留白充足。背景颜色必须保持纯白，不得是米白、奶油色、灰色或带色背景。褶皱不要过多或装饰化。
 
-## Forbidden
+## 禁止
 
-Refined children's book illustration, commercial illustration, smooth digital line art, vector lines, gradients, 3D, complex backgrounds, pretty details.
+精致的儿童绘本插画、商业插画、光滑的数字线稿、矢量线、渐变、3D、复杂背景、漂亮细节。
 
-## Text
+## 文字
 
-If Chinese text is present, it must be clearly readable thick black handwritten Chinese, allowing size inconsistency, but NO typos, missing characters, garbled text, or pseudo-text.
+若出现中文文字，必须是清晰可读的粗黑手写中文，允许字号不一，但不得有错字、漏字、乱码或假字。

@@ -1,33 +1,33 @@
-# Style B — Emotional Narrative Light-Color Sketch
+# 风格 B — 情感叙事淡彩速写
 
-An emotional narrative style minimalist light-color sketch illustration on pure white paper (#FFFFFF), airy and translucent with a slightly naive hand-drawn feel. The background must remain pure white, not cream, beige, grey, or tinted. NOT digital polished illustration, NOT photorealistic, NOT watercolor study, NOT Japanese anime.
+纯白纸（#FFFFFF）上的情感叙事风极简淡彩速写插画，通透轻盈，带一点稚拙的手绘感。背景必须保持纯白，不得是米白、奶油色、灰色或带色背景。不是精致的数字插画，不是写实，不是水彩习作，不是日系动漫。
 
-## Lines (most important)
+## 线条（最重要）
 
-Use indigo/navy blue pen for relaxed sketch lines — sparse but confident, crisp and airy. Outlines occasionally left open, with slight hand tremor. For hair, buns, circles, fluffy objects, or ring-shaped things: use looping "search lines" drawn back and forth, NOT one clean closed line.
+用靛蓝或藏青色钢笔画松弛的速写线——稀疏但肯定，干净通透。轮廓偶尔留白断开，带轻微手抖。画头发、发髻、圆圈、毛绒物或环形物时：用来回绕圈的「寻找线」画，而不是一笔干净的闭合线。
 
-**Absolutely forbidden:** dense hatching, cross-hatching, line shading or shadow buildup.
+**绝对禁止：** 密排线、交叉排线、用线条做阴影或暗部堆叠。
 
-## Character design
+## 人物造型
 
-Realistic proportions and expression, emotionally resonant with storytelling sense. Adults drawn semi-realistic and minimal; children drawn rounder and cuter. NOT chibi big-head style, NOT photorealistic, NOT anime face. Light dab of faint blush on cheeks.
+比例真实、有表情，富有情感共鸣和叙事感。成人画成半写实偏简练；儿童画得更圆更可爱。不是 Q 版大头，不是写实，不是动漫脸。脸颊点一抹淡淡腮红。
 
-## Coloring (most important)
+## 上色（最重要）
 
-The entire image is dominated by large white paper negative space (~60-70% pure white), mostly just blue lines without color.
+整张画面以大面积白纸留白为主（约 60-70% 纯白），大部分区域只有蓝色线条、没有颜色。
 
-Only apply ONE patch of high-saturation orange to a key orange object — the sole warm focal point of the entire image. At most, tiny touches of light blue-green in a few small spots.
+只在一个关键的橙色物体上涂一块高饱和橙色——这是整张画面唯一的暖色焦点。最多在几个小点上点一点点淡蓝绿色。
 
-Watercolor: thin application, uneven edges, white gaps allowed. Absolutely NO filling solid, NO thick paint, NO deep coloring entire objects.
+水彩：薄涂，边缘不均，允许留白缝隙。绝对不要平涂实心、不要厚涂、不要把整个物体涂深。
 
-## Details & Composition
+## 细节与构图
 
-A few short trembling lines beside the subject suggesting emotion or movement. Single subject or scene, subject offset to one side, other side with large empty space. Extremely minimal.
+主体旁边用几条短促的颤抖线暗示情绪或动感。单一主体或场景，主体偏向画面一侧，另一侧留大片空白。极其极简。
 
-## Tone
+## 调性
 
-Nostalgic, tender, slightly bittersweet family narrative feel. Image clean and airy.
+怀旧、温柔、略带苦甜的家庭叙事感。画面干净通透。
 
-## Forbidden
+## 禁止
 
-Dense hatching, cross-hatching, thick paint, filled watercolor, realistic portrait rendering, wrinkles and trivial details, saturated multi-color palette, 3D, photos, Japanese anime face, cartoon thick outlines, detailed backgrounds.
+密排线、交叉排线、厚涂、平涂水彩、写实肖像、皱纹等琐碎细节、高饱和多色配色、3D、照片、日系动漫脸、卡通粗描边、复杂背景。

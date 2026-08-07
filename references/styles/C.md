@@ -1,33 +1,33 @@
-# Style C — Scandinavian Picture-Book Gouache
+# 风格 C — 北欧绘本水粉
 
-Soft gouache children's picture-book illustration in a modern Scandinavian storybook style, character-design sheet energy. Single subject against a vast empty **pure white (#FFFFFF) paper background** with huge negative space. The background color must remain pure white, never cream, beige, grey, or tinted.
+现代北欧故事书风格的柔软水粉儿童绘本插画，带角色设定表的气质。单一主体置于大面积留空的**纯白（#FFFFFF）纸背景**上，负空间极大。背景颜色必须保持纯白，不得是米白、奶油色、灰色或带色背景。
 
-## Paper (identity trait)
+## 纸张（身份特征）
 
-The paper is **pure white (#FFFFFF)**, very light and airy. Never use a near-white tint, cream, beige, grey, or colored paper background. Subtle fine paper grain tooth texture may be visible across the image, but it must not change the background color.
+纸张是**纯白（#FFFFFF）**，非常轻盈通透。绝不使用近白带色、米白、奶油色、灰色或有色纸背景。画面上可有细微的纸张颗粒牙面纹理，但不得改变背景颜色。
 
-## Palette (strict)
+## 配色（严格）
 
-Cozy limited palette — denim cornflower blue and mustard butter yellow, both clearly saturated enough to read cheerful, plus warm cream white and soft coral blush. Hair only in auburn, dark umber, dark navy, or silver grey. No other colors anywhere.
+温馨的有限配色——牛仔矢车菊蓝和芥末黄油色，两者都足够饱和、看着明快，加上暖奶油白和柔珊瑚腮红。头发只用赤褐、深褐、深藏青或银灰。其他地方不得出现别的颜色。
 
-## Character recipe
+## 人物配方
 
-Stylized quirky storybook proportions — long thin neck, slender elongated limbs, small hands. Expressive minimalist face: two small navy oval eyes (for a glasses character: big round navy eyes behind round mustard wire glasses; for an angular adult: tiny navy dot eyes), an expressive prominent nose with a slightly darker coral tip, thin expressive slightly-worried eyebrows, faint subtle mouth, round rosy coral blush cheeks.
+风格化的奇特绘本比例——细长脖子、修长纤细的四肢、小小的手。表情化的极简脸：两只小小的藏青椭圆眼（戴眼镜的角色：圆芥末色金属丝眼镜后面一双大圆藏青眼；棱角分明的成人：极小的藏青点眼），一个有表情的突出鼻子、鼻尖略偏珊瑚色，细而有表情、略带担忧的眉毛，淡淡的小嘴，圆圆的珊瑚色腮红脸颊。
 
-Hair painted as a few soft masses with a few thin flyaway hair-line strokes escaping the silhouette. An angular adult may instead get one GEOMETRIC sculpted hair mass with a pointed swoop, a squared jaw, and exaggerated elongated legs. Gentle, slightly awkward endearing posture. NOT cute mainstream cartoon.
+头发画成几个柔软色块，轮廓外飘出几根细细的碎发丝。棱角分明的成人则可换成一块几何感雕塑感的发型，带尖翘、方下巴和夸张拉长的腿。温柔、略笨拙、讨喜的姿态。不是主流可爱卡通。
 
-## Texture
+## 纹理
 
-Flat matte gouache color masses with granular dry-brush stippled texture inside the clothing and hair. NO hard outlines, no volumetric 3D rendering, no glossy digital shading.
+平涂的哑光水粉色块，衣服和头发内有颗粒干笔点画纹理。不要硬轮廓线、不要体积感 3D 渲染、不要光滑的数字阴影。
 
-## Light & Shadow
+## 光影
 
-Single soft key light from upper left, gentle cast shadow on ground only. No harsh contrast, no rim light.
+左上方单一柔和主光，只在地面投下柔和的投影。不要硬反差、不要轮廓光。
 
-## Tone
+## 调性
 
-Timeless heartwarming Scandinavian picture-book aesthetic.
+永恒温暖的北欧绘本美学。
 
-## Text
+## 文字
 
-No text on the image.
+画面上无文字。
